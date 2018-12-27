@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "765182283169",
+    "firebase_url": "https://tensebuilder.firebaseio.com",
+    "project_id": "tensebuilder",
+    "storage_bucket": "tensebuilder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765182283169:android:b2b4a69e59fcc6d5",
+        "android_client_info": {
+          "package_name": "softsluz.com.englishtensebuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765182283169-lnfgu6cs00a3ed9245j7dpuivc8kkrrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLMqdH2QYvKD-19S3RlwK9ZdE4qprSiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
